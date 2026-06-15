@@ -5,15 +5,15 @@
 Sou um desenvolvedor focado em criar soluções eficientes, limpas e escaláveis. Tenho forte atuação em automação de processos, visão computacional, sistemas de gestão e boas práticas de arquitetura de software (Clean Code e Princípio DRY).
 
 ### Minhas Principais Tecnologias
-!Python
-!NodeJS
-!SQL
-!Git
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![NodeJS](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ### Destaque do meu Portfólio
 Convido você a conferir o meu repositório central de portfólio, onde aplico rigor técnico, pipelines de testes e segurança ativa (sem vazamento de chaves):
 
-Acessar meu Portfólio de Projetos
+🔗 [Acessar meu Portfólio de Projetos](https://github.com/fabricionarofe/Portf-lio)
 
 ### Minhas Estatísticas do GitHub
 <p align="left">
@@ -22,8 +22,8 @@ Acessar meu Portfólio de Projetos
 </p>
 
 ### Como me encontrar
-[!LinkedIn](https://www.linkedin.com/in/fabricio-ferreira-ab1b2a223/)
-[!E-mail](mailto:fabricionarofe@hotmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fabricio-ferreira-ab1b2a223/)
+[![E-mail](https://img.shields.io/badge/E--mail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:fabricionarofe@hotmail.com)
 
 ---
 *"A automação e a engenharia de software não são apenas sobre escrever código, mas sobre resolver problemas do mundo real de forma inteligente."*
