@@ -1,28 +1,29 @@
-# Olá! Eu sou o Fabricio 👋
+# Olá! Eu sou o Fabricio
 
-👨‍💻 **Engenheiro de Software | Desenvolvedor**
+**Engenheiro de Software | Desenvolvedor**
 
 Sou um desenvolvedor focado em criar soluções eficientes, limpas e escaláveis. Tenho forte atuação em automação de processos, visão computacional, sistemas de gestão e boas práticas de arquitetura de software (Clean Code e Princípio DRY).
 
-### 🛠️ Minhas Principais Tecnologias
+### Minhas Principais Tecnologias
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-### 🚀 Destaque do meu Portfólio
+### Destaque do meu Portfólio
 Convido você a conferir o meu repositório central de portfólio, onde aplico rigor técnico, pipelines de testes e segurança ativa (sem vazamento de chaves):
-🔗 **[Acessar meu Portfólio de Projetos](https://github.com/SEU_USUARIO/NOME_DO_REPO_DO_PORTFOLIO)**
 
-### 📊 Minhas Estatísticas do GitHub
+[Acessar meu Portfólio de Projetos](https://github.com/fabricioshit1-create/Portf-lio)
+
+### Minhas Estatísticas do GitHub
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=radical&hide_border=true" alt="Estatísticas do GitHub" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=radical&hide_border=true" alt="Linguagens mais usadas" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=fabricioshit1-create&show_icons=false&theme=radical&hide_border=true" alt="Estatísticas do GitHub" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fabricioshit1-create&layout=compact&theme=radical&hide_border=true" alt="Linguagens mais usadas" height="150"/>
 </p>
 
-### 📫 Como me encontrar
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/SEU_LINKEDIN)
-[![E-mail](https://img.shields.io/badge/E--mail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seu-email@gmail.com)
+### Como me encontrar
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
+[![E-mail](https://img.shields.io/badge/E--mail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seu-email-aqui@gmail.com)
 
 ---
 *"A automação e a engenharia de software não são apenas sobre escrever código, mas sobre resolver problemas do mundo real de forma inteligente."*
