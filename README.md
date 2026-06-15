@@ -13,7 +13,7 @@ Sou um desenvolvedor focado em criar soluções eficientes, limpas e escaláveis
 ### Destaque do meu Portfólio
 Convido você a conferir o meu repositório central de portfólio, onde aplico rigor técnico, pipelines de testes e segurança ativa (sem vazamento de chaves):
 
-🔗 [Acessar meu Portfólio de Projetos](https://github.com/fabricionarofe/Portf-lio)
+🔗 [Acessar meu Portfólio de Projetos](https://github.com/fabricionarofe/Portfolio)
 
 ### Minhas Estatísticas do GitHub
 <p align="left">
