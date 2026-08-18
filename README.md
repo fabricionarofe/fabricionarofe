@@ -1,29 +1,91 @@
-# Olá! Eu sou o Fabricio
+﻿<div align="center">
 
-**Engenheiro de Software | Desenvolvedor**
+<img src="https://github.com/fabricionarofe.png" width="120" style="border-radius:50%;" alt="Fabrício Ferreira"/>
 
-Sou um desenvolvedor focado em criar soluções eficientes, limpas e escaláveis. Tenho forte atuação em automação de processos, visão computacional, sistemas de gestão e boas práticas de arquitetura de software (Clean Code e Princípio DRY).
+#  Hi, I'm Fabrício Ferreira
 
-### Minhas Principais Tecnologias
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![NodeJS](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+**Software Developer · Data Engineer · Economics Researcher**
 
-### Destaque do meu Portfólio
-Convido você a conferir o meu repositório central de portfólio, onde aplico rigor técnico, pipelines de testes e segurança ativa (sem vazamento de chaves):
-
-🔗 [Acessar meu Portfólio de Projetos](https://github.com/fabricionarofe/Portfolio)
-
-### Minhas Estatísticas do GitHub
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=fabricionarofe&show_icons=false&theme=radical&hide_border=true" alt="Estatísticas do GitHub" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fabricionarofe&layout=compact&theme=radical&hide_border=true" alt="Linguagens mais usadas" height="150"/>
-</p>
-
-### Como me encontrar
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fabricio-ferreira-ab1b2a223/)
-[![E-mail](https://img.shields.io/badge/E--mail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:fabricionarofe@hotmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/fabricionarofe)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:fabricionarofe@hotmail.com)
+
+</div>
 
 ---
-*"A automação e a engenharia de software não são apenas sobre escrever código, mas sobre resolver problemas do mundo real de forma inteligente."*
+
+## About Me
+
+I'm a Software Developer and Data Engineer based in Belém, Pará, Brazil 🇧🇷 with a strong background in building scalable backend systems, automating data pipelines, and applying software engineering best practices to solve real-world institutional challenges.
+
+My experience spans **full-stack web development**, **database architecture and optimization**, **Python automation**, and **Computer Vision** — all applied in production environments serving thousands of users at the City Hall of Belém (PMB/SEGEP) and international research projects.
+
+I hold a Bachelor's degree in Economics from UFPA and am currently completing a Master's degree in Regional and Urban Development, which gives me a unique combination of **analytical rigor** and **technical depth** when designing software solutions.
+
+---
+
+##  Tech Stack
+
+| Area | Technologies |
+|---|---|
+| **Backend** | PHP 7.2+, Python 3.x, Node.js |
+| **Frontend** | JavaScript, jQuery, Semantic UI, HTML5, CSS3 |
+| **Databases** | MySQL (Advanced Queries & Indexing), SQL, ElasticSearch |
+| **Data & Analysis** | Python (Pandas, NumPy), R, Power BI, Google Looker Studio |
+| **Computer Vision** | OpenCV, face_recognition |
+| **DevOps & Tools** | Git, GitHub, AWS (basics), XAMPP, VS Code |
+| **CMS & Frameworks** | WordPress (Plugins & Themes), MVC Architecture |
+
+---
+
+##  Project Catalog
+
+This repository is a curated collection of projects I've built — each one solving a real problem with a production mindset.
+
+###  Automation & Data Processing
+| Project | Description | Tech |
+|---|---|---|
+| [web-scraping-gdoc](./web-scraping-gdoc/) | Automated pipeline to scrape, process, and export structured data to Google Docs/Sheets | Python, BeautifulSoup |
+| [automacao-de-mensagem](./automacao-de-mensagem/) | Scheduled messaging automation to reduce manual operational overhead | Python |
+
+###  Computer Vision & AI
+| Project | Description | Tech |
+|---|---|---|
+| [reconhecimento-facial](./reconhecimento-facial/) | Biometric identification system with facial recognition for controlled-access environments | Python, OpenCV |
+
+###  Corporate & Management Systems
+| Project | Description | Tech |
+|---|---|---|
+| [sistema-de-contratos](./sistema-de-contratos/) | Contract management platform with traceability and auditability | Python, MySQL |
+| [SistemaPatrimonio](./SistemaPatrimonio/) | Asset management and auditing system for organizational patrimony control | Python |
+
+###  Web Development
+| Project | Description | Tech |
+|---|---|---|
+| [site-de-vendas](./site-de-vendas/) | Sales platform for showcasing services and optimizing digital purchasing experience | PHP, MySQL, HTML/CSS/JS |
+
+###  PHP Portfolio
+| Project | Description | Tech |
+|---|---|---|
+| [php-crud-semantic-ui](./php-crud-semantic-ui/) | Full CRUD with PHP 7.2+, PDO, MySQL, Semantic UI, CSRF & XSS protection | PHP, MySQL, Semantic UI |
+| [wp-plugin-cotacoes](./wp-plugin-cotacoes/) | WordPress plugin built with OOP, custom Shortcode, and WordPress Hooks | PHP, WordPress |
+
+---
+
+## 📐 Engineering Standards
+
+Every project here was built or refactored following these principles:
+
+- **Security First:** No hardcoded credentials. Sensitive data managed via environment variables and .gitignore.
+- **Clean Code & DRY:** Responsibility separation across logical layers (src/, ackend/, rontend/).
+- **SQL Optimization:** Queries use prepared statements (PDO), indexed columns, and EXPLAIN-validated performance.
+- **CSRF & XSS Protection:** Web-facing forms are protected against Cross-Site Request Forgery and Cross-Site Scripting.
+- **Dependency Reproducibility:** All external dependencies documented in equirements.txt or composer.json.
+
+---
+
+##  Get In Touch
+
+Open to **remote contracting opportunities** in Backend PHP, Python, Data Engineering, or AI Data Labeling.
+
+📧 **fabricionarofe@hotmail.com** | 📱 **(91) 98297-6373** | 📍 Belém, Pará — Brazil
