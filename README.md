@@ -1,6 +1,5 @@
 ﻿<div align="center">
 
-<img src="https://github.com/fabricionarofe.png" width="120" style="border-radius:50%;" alt="Fabrício Ferreira"/>
 
 #  Hi, I'm Fabrício Ferreira
 
